@@ -1,0 +1,54 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.beige-background{
+    background-color: #EAF0CE;
+}
+
+.blue-background{
+    background-color: #9297C4;
+}
+
+.btn-outline-info:hover{
+    background-color: #9297C4 !important;
+    color: #000000 !important;
+}
+
+.btn-outline-info.active{
+    background-color: #9297C4 !important;
+    color: #000000 !important;
+}
+
+.btn-outline-info {
+    color: #9297C4 !important;
+}
+
+.txt {
+    color: #9297C4;
+}
+
+.card{
+    background-color: #EAF0CE !important;
+}
+
+.hillcrest {
+    color: blue;
+}
+
+.palm {
+    color: green;
+}
+
+.childrens {
+    color: purple;
+}
+
+.teens {
+    color: orange;
+}
